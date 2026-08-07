@@ -18,8 +18,8 @@ To explore my end-to-end technical capabilities, check out my specialized reposi
 
 ### 🛠️ Foundational Learning Modules
 
-#### 📂 **[01_Python_Core](./Foundational_Learning/01_Python_Core/)** — *Active Sprint* 🔄
-*   **[File Handling Operations](./Foundational_Learning/01_Python_Core/File_Handling_project/)** — Implementation of structural text-file databases to achieve permanent data persistence, managing CRUD operations (Create, Read, Update, Delete) directly through Python text stream streams (`open()`, `read()`, `write()`).
+#### 📂 **[01_Python_Core](./Foundational_Learning/01-Python-Core/)** — *Active Sprint* 🔄
+*   **[File Handling Operations](./Foundational_Learning/01-Python-Core/File_Handling_project/)** — Implementation of structural text-file databases to achieve permanent data persistence, managing CRUD operations (Create, Read, Update, Delete) directly through Python text stream streams (`open()`, `read()`, `write()`).
 *   **[Bank Management System](./Foundational_Learning/01_Python_Core/bank_management_system/)** — A system engineered to demonstrate Object-Oriented Programming (OOP) principles (Encapsulation, Polymorphism) paired with persistent File I/O operations for data retention.
 
 
