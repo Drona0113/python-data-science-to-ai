@@ -1,1 +1,34 @@
-[{"name": "drona", "age": 21, "email": "drona@gmail.com", "pin": 4321, "accountNo.": 1234, "balance": 0}, {"name": "gopinadh", "age": 21, "email": "gopi@123gmail.com", "pin": 5352, "accountNo.": 1234, "balance": 0}, {"name": "sanjay", "age": 22, "email": "sanjusamson@gmail.com", "pin": 581, "accountNo.": "%Di3q35", "balance": 3000}]
+[
+    {
+        "name": "drona",
+        "age": 21,
+        "email": "drona@gmail.com",
+        "pin": "4321",
+        "accountNo.": "1234",
+        "balance": 0
+    },
+    {
+        "name": "Sanjay Rahul",
+        "age": 22,
+        "email": "sanjusamson@gmail.com",
+        "pin": "581",
+        "accountNo.": "%Di3q35",
+        "balance": 4500
+    },
+    {
+        "name": "venkata sai",
+        "age": 21,
+        "email": "venkatk@gmail.com",
+        "pin": 1909,
+        "accountNo.": "LA08^8V",
+        "balance": 0
+    },
+    {
+        "name": "Koundinya",
+        "age": 22,
+        "email": "hanumankrishna@gmail.com",
+        "pin": "280205",
+        "accountNo.": "oUk1!31",
+        "balance": 1200
+    }
+]
